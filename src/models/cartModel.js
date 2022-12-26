@@ -38,6 +38,3 @@ module.exports = mongoose.model("Cart", cartSchema)
 
 
 
-// title:String,
-//         price:Number,
-//         productImage:String,
